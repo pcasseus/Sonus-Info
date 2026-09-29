@@ -151,7 +151,6 @@ The application remains local-first while cloud functionality is progressively e
 
 Sonus uses a **feature-oriented layered architecture** intended to keep UI, business logic, persistence, and external services separated as the application grows.
 
-```text
                          ┌─────────────────────┐
                          │      Flutter UI     │
                          │   Pages & Widgets   │
